@@ -7,4 +7,3 @@ Osa0 tehtävien palautusta varten.
 [Tehtävä 5](TEHTAVA5.MD)
 
 [Tehtävä 6](TEHTAVA6.MD)
-feature/add-readmef
